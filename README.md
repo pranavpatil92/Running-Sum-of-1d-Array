@@ -44,3 +44,15 @@ public:
 ## Link
 
 [LeetCode - 1480. Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0136-single-number) |
+<!---LeetCode Topics End-->
