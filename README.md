@@ -51,6 +51,7 @@ public:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1207-unique-number-of-occurrences](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1207-unique-number-of-occurrences) |
@@ -66,6 +67,7 @@ public:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -75,4 +77,13 @@ public:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
