@@ -50,6 +50,7 @@ public:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0136-single-number) |
@@ -67,6 +68,7 @@ public:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -88,4 +90,8 @@ public:
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
