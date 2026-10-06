@@ -67,6 +67,7 @@ public:
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1207-unique-number-of-occurrences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -101,9 +102,14 @@ public:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
