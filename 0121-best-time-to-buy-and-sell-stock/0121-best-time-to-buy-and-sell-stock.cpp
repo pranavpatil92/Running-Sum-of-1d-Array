@@ -1,14 +1,24 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
+        int n = prices.size();
+
         int minPrice = prices[0];
         int maxProfit = 0;
 
-        for (int i = 1; i < prices.size(); i++) {
+        for (int i = 1; i < n; i++) {
+
+            // Update the cheapest price seen so far
             if (prices[i] < minPrice) {
                 minPrice = prices[i];
-            } else if (prices[i] - minPrice > maxProfit) {
-                maxProfit = prices[i] - minPrice;
+            }
+
+            // Calculate today's possible profit
+            int profit = prices[i] - minPrice;
+
+            // Update maximum profit
+            if (profit > maxProfit) {
+                maxProfit = profit;
             }
         }
 
