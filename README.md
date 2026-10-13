@@ -112,4 +112,8 @@ public:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
