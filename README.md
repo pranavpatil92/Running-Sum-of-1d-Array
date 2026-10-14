@@ -58,6 +58,7 @@ public:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/1207-unique-number-of-occurrences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
@@ -78,6 +79,7 @@ public:
 | [0075-sort-colors](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +89,7 @@ public:
 | ------- |
 | [0015-3sum](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/pranavpatil92/Running-Sum-of-1d-Array/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
